@@ -10,4 +10,5 @@ body{
   box-sizing: border-box;
   background-color: var(--mainbg);
   color: var(--maintext);
+  font-family: 'Verdana', sans-serif;
 }
